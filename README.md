@@ -8,14 +8,12 @@ specialized ones for various purposes, such as financial, scientific, or convers
 
 **HTML (HyperText Markup Language):**
 
- 1.Defines the structure and content of the web calculator.
- 
+ 1.Defines the structure and content of the web calculator. 
  2.Uses elements like <div>, <button>, and <input> to create the interface.
   
 **CSS (Cascading Style Sheets):**
 
- 1.Styles the calculator to make it visually appealing and user-friendly.
- s
+ 1.Styles the calculator to make it visually appealing and user-friendly. 
  2.Manages layout, colors, spacing, and responsiveness.
   
 **JavaScript:**
